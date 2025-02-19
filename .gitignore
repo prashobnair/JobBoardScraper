@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env
+
+# SQLite database
+job_data.db
